@@ -8,7 +8,7 @@ Follow the progression of the APP
 
 ### `27/08/2020`
 
-- Did the folder squelete and some  functions. all is good for the moment
+- Did the folder squelete and some  functions. all is good for the moment (vid 46:44) = https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
 ## Available Scripts
 

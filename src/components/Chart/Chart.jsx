@@ -1,6 +1,15 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
 const Chart = () => {
+    const [dailyData, setDailyDAta] = useState({});
+
+    useEffect(async () => {
+
+    });
+
+    state = {
+        dailyData: {}
+    }
     return (
         <h1>Chart</h1>
     )
