@@ -10,6 +10,10 @@ Follow the progression of the APP
 
 - Did the folder squelete and some  functions. all is good for the moment (vid 46:44) = https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
+### `28/08/2020`
+
+- I got some problem with the CountryPicker.jsx ... also another problem that I have (hope that is just JS who doesnt work) the page donc want to load itself .. (vid 1:06:02) https://www.youtube.com/watch?v=khJlrj3Y6Ls
+
 ## Available Scripts
 
 In the project directory, you can run:
