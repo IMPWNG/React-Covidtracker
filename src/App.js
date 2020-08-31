@@ -27,7 +27,7 @@ class App extends React.Component {
         this.setState({ data, country: country });
       }
     
-
+yarn
     render() {
         const { data, country } = this.state;
         return (

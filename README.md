@@ -14,6 +14,10 @@ Follow the progression of the APP
 
 - I got some problem with the CountryPicker.jsx ... also another problem that I have (hope that is just JS who doesnt work) the page donc want to load itself .. (vid 1:06:02) https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
+### `31/08/2020`
+
+- Problem from the 28 has been solved. Now the problem is that I when i picked a country .. there is no data on the card .. try to find a solution .. (vid 1:06:02) https://www.youtube.com/watch?v=khJlrj3Y6Ls
+
 ## Available Scripts
 
 In the project directory, you can run:
