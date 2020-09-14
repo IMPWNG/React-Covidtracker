@@ -18,6 +18,11 @@ Follow the progression of the APP
 
 - Problem from the 28 has been solved. Now the problem is that I when i picked a country .. there is no data on the card .. try to find a solution .. (vid 1:06:02) https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
+### `14/09/2020`
+
+- Try to find why data is not showed on card 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
