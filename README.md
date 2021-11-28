@@ -1,19 +1,12 @@
-![made-with-React](https://img.shields.io/badge/Made%20with-REACT-1f425f.svg)
-![DONE](https://img.shields.io/badge/PROJECT-DONE-SUCCESS)
+# Covid Tracker
 
-## See Live
+## Live[Live](https://impwng-covidtracker-app.netlify.app/)
+![Task Tracker using ReactApp](https://i.ibb.co/6mSh4sB/covidtrack.png/)
 
-[Live](https://impwng-covidtracker-app.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89b1c2a2-6614-42dd-97d5-27cb3b5ffd08/deploy-status)](https://app.netlify.com/sites/impwng-covidtracker-app.netlify.app/deploys)
 
-## Run the App 
+# Project :white_check_mark:
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 
 
